@@ -67,3 +67,24 @@
 .button:hover{
     background-color: hsl(204, 94%, 48%);
 }
+
+.site{
+    text-align: center;
+    padding:40px 20px;
+    margin-top: 50px;
+    font-family: sans-serif;
+    color: #555;
+    line-height: 1.6;
+}
+
+.site hr{
+    width: 50%;
+    margin:0 auto 30px auto;
+    border: 0;
+    border-top: 1px solid #ddd;
+}
+
+.site p{
+    margin: 5px 0;
+    font-size: 0.9rem;
+}
